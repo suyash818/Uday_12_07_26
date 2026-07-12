@@ -1,0 +1,9 @@
+ubuntu@ip-172-31-40-74:~/test$ mv test1.txt test2.rxt
+ubuntu@ip-172-31-40-74:~/test$ ls -la
+total 16
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 11 04:59 .
+drwxr-x--- 6 ubuntu ubuntu 4096 Jul 11 04:56 ..
+-rw-rw-r-- 1 ubuntu ubuntu 19 Jul 11 04:58 test.txt
+-rw-rw-r-- 1 ubuntu ubuntu 19 Jul 11 04:59 test2.rxt
+ubuntu@ip-172-31-40-74:~/test$ rm test.txt test2.rxt 
+ubuntu@ip-172-31-40-74:~/test$ ls -la
