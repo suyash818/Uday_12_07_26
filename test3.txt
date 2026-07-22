@@ -1,0 +1,12 @@
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 11 05:00 .
+drwxr-x--- 6 ubuntu ubuntu 4096 Jul 11 04:56 ..
+ubuntu@ip-172-31-40-74:~/test$ cd ..
+ubuntu@ip-172-31-40-74:~$ pwd
+/home/ubuntu
+ubuntu@ip-172-31-40-74:~$ ls -la
+total 40
+drwxr-x--- 6 ubuntu ubuntu 4096 Jul 11 04:56 .
+drwxr-xr-x 3 root root 4096 Jul 11 04:33 ..
+-rw-r--r-- 1 ubuntu ubuntu 220 Feb 13 12:16 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu 3771 Feb 13 12:16 .bashrc
